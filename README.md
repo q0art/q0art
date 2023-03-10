@@ -1,5 +1,4 @@
-<h1 align="center">artem merkulov</h1>
-<h3 align="center">Frontend dev</h3>
+<h3 align="left">Frontend dev</h3>
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
