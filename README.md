@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-Hello, i' m an Full-stack developer.
+frontend maybe
 
 <p align="left" >
     <a href="LINK TO: WHEN CLICKED">
